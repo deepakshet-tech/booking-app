@@ -29,14 +29,12 @@ Select a vehicle, set the schedule, and confirm instantly.
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: (Add if you’re using Flask, Node.js, etc.)
-
-Database: (Mention if you used MySQL, MongoDB, etc.)
-
 📦 Installation & Setup :
 
 👨‍💻 Developer :
 
 Project Name: Goods Zone
+
 Created by: Deepak Shet
+
 Feel free to connect for collaboration or feedback!
